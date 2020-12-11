@@ -63,7 +63,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/vinnyfs89/github-readme-stats">
+  <a href="https://github.com/fellipeesteves/github-readme-stats">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipeesteves&layout=compact&theme=dracula"
