@@ -2,12 +2,12 @@
 
 ### About me:
 
-- 💬 U+200b Ask me about business innovation through technology
-- 💼 U+200b I’m currently working as software engineer and devops
-- 🎓 U+200b I’m graduated in information systems
-- 🌱 U+200b I’m currently and always learning about business models and new technologies
-- 💻 U+200b I work with technology since 2004
-- 🇧🇷 U+200b Live in Brazil
+- 💬 ⠀Ask me about business innovation through technology
+- 💼⠀ I’m currently working as software engineer and devops
+- 🎓⠀⠀I’m graduated in information systems
+- 🌱 ⠀I’m currently and always learning about business models and new technologies
+- 💻 ⠀I work with technology since 2004
+- 🇧🇷 ⠀Live in Brazil
 
 ### Join me:
 
