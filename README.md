@@ -1,7 +1,3 @@
-**<img src="https://raw.githubusercontent.com/fellipeesteves/fellipeesteves/master/assets/hi.gif" width="25"> Hi! I'm Fellipe Esteves**
-
----
-
 <p align="center">
   <a href="https://github.com/fellipeesteves/github-readme-stats">
     <img
