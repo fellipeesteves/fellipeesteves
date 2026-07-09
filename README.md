@@ -1,15 +1,1 @@
-<p align="center">
-  <a href="https://github.com/fellipeesteves/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipeesteves&layout=compact&theme=dracula"
-    />
-  </a>
-  <a href="https://github.com/fellipeesteves/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=fellipeesteves&show_icons=true&theme=dracula"
-    />
-  </a>
-</p>
+<p align="left"><img width=15%" src="https://github.com/fellipeesteves/fellipeesteves/raw/main/assets/lang.gif" alt="lang image here" /></p>
